@@ -1,0 +1,76 @@
+﻿@{
+    string username = User.Identity.Name;
+    bool isAdmin = User.IsInRole("Admin");
+    bool isUser = User.IsInRole("User");
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie store</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/forms.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="icon" href="/images/movie_filter_FILL0_wght400_GRAD0_opsz48.svg">
+    <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <style>
+        .nav-bar{
+            background-color : white;
+        }
+    </style>
+    <nav class="nav-bar">
+        <div class="logo">
+            movie store
+        </div>
+        <ul class="nav-link">
+            <li><a class="active" href="/Home/Index">Home</a></li>
+            <li><a href="/Home/About">About</a></li>
+            
+            @if (isAdmin)
+            {
+                <li>
+                    <a href="#">Admin <i class="fa fa-caret-down"></i></a>
+
+                    <ul class="dropdown-nav-link">
+                        <li><a href="/admin/genres/add">Genres</a></li>
+                        <li><a href="/admin/movies/add">Movies</a></li>
+                        <li><a href="/UserAuthentication/Logout">Logout</a></li>
+                    </ul>
+                </li>
+            }
+            
+            @if (isUser)
+            {
+                <li>
+                    <a href="#">User <i class="fa fa-caret-down"></i></a>
+
+                    <ul class="dropdown-nav-link">
+                        <li><a href="/User/Profile">WishList</a></li>
+                        <li><a href="/UserAuthentication/Logout">Logout</a></li>
+                    </ul>
+                </li>
+            }
+            
+            @if(string.IsNullOrEmpty(username))
+            {
+                <li><a href="/account/Login">Login</a></li>
+                <li><a href="/account/Register">Register</a></li>
+            }
+        </ul>
+    </nav>
+    <div class="container">
+        @RenderBody()
+    </div>
+        <footer>
+        &#169; 2023
+    </footer>
+</body>
+</html>

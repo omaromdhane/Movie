@@ -1,0 +1,181 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\Uploads\\0ede5181-2995-483c-bc14-b903c95af299.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\0ede5181-2995-483c-bc14-b903c95af299.jpg"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\Uploads\\0f6bea9e-e3f2-4466-8430-93f4be52a313.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\0f6bea9e-e3f2-4466-8430-93f4be52a313.jpg"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\Uploads\\18ee0442-c3bb-48e2-8a2d-b8952bc4867f.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\18ee0442-c3bb-48e2-8a2d-b8952bc4867f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\Uploads\\376f800f-3d76-48f0-aab5-4e1ca8947d99.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\376f800f-3d76-48f0-aab5-4e1ca8947d99.jpg"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\Uploads\\932f269b-72e9-40f4-be6a-2764e285c0a5.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\932f269b-72e9-40f4-be6a-2764e285c0a5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\Uploads\\93fedbd4-bd8d-4921-a722-40a9c6bb2c00.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\93fedbd4-bd8d-4921-a722-40a9c6bb2c00.jpg"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\Uploads\\9d1d7212-d923-40b0-b954-114239a53313.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\9d1d7212-d923-40b0-b954-114239a53313.jpg"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\Uploads\\a6e3645e-982c-438e-80ee-9bef3e37aa6e.png",
+      "PackagePath": "staticwebassets\\Uploads\\a6e3645e-982c-438e-80ee-9bef3e37aa6e.png"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\Uploads\\ac174d1f-b5d4-4480-9e81-51708ec43f89.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ac174d1f-b5d4-4480-9e81-51708ec43f89.jpg"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\Uploads\\af6f8441-2d34-4a93-b27f-656f35be52ff.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\af6f8441-2d34-4a93-b27f-656f35be52ff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\Uploads\\ccb70f86-227e-4c89-8340-a9dbf7fb4418.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ccb70f86-227e-4c89-8340-a9dbf7fb4418.jpg"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\Uploads\\ce5f63db-aab1-499d-a19b-85aa27dc97fa.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ce5f63db-aab1-499d-a19b-85aa27dc97fa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\Uploads\\d2b7ec84-164c-46cf-b67b-77978098b425.png",
+      "PackagePath": "staticwebassets\\Uploads\\d2b7ec84-164c-46cf-b67b-77978098b425.png"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\Uploads\\f5009281-df7f-490e-8284-141d4d521a59.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f5009281-df7f-490e-8284-141d4d521a59.jpg"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\legion\\Desktop\\projet c#\\Movie\\MovieStoreMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MovieStoreMvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MovieStoreMvc.props",
+      "PackagePath": "build\\MovieStoreMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MovieStoreMvc.props",
+      "PackagePath": "buildMultiTargeting\\MovieStoreMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MovieStoreMvc.props",
+      "PackagePath": "buildTransitive\\MovieStoreMvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
