@@ -2,6 +2,7 @@
 using MovieStoreMvc.Models.DTO;
 using MovieStoreMvc.Repositories.Abstract;
 
+
 namespace MovieStoreMvc.Controllers
 {
     public class UserAuthenticationController : Controller
@@ -45,6 +46,19 @@ namespace MovieStoreMvc.Controllers
         [HttpGet("Account/Login")]
         public async Task<IActionResult> Login()
         {
+            var model = new RegistrationModel
+            {
+                Email = "admin@gmail.com",
+                Username = "admin",
+                Name = "admin",
+                Password = "Admin@123",
+                PasswordConfirm = "Admin@123",
+                Role = "Admin"
+            };
+            var result = await authService.RegisterAsync(model);
+            if(result.StatusCode == 1) { 
+            TempData["msg"] = "Admin account created !";
+            }
             return View();
         }
 
@@ -69,6 +83,5 @@ namespace MovieStoreMvc.Controllers
            await authService.LogoutAsync();
             return RedirectToAction(nameof(Login));
         }
-
     }
 }
